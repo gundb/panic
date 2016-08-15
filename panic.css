@@ -66,7 +66,8 @@ HEADER
 	width: 100%;
 	height: 100vh;
 	background-image:url('img/bgImg.jpg');
-	background-size:100% 100vh;
+	background-size:cover;
+	background-position: center;
 	background-repeat: no-repeat;
 	position:relative;
 	z-index: 0
